@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Brawny Techie</title>
+    <link>https://brawnytechie.com/</link>
+    <description>Recent content on Brawny Techie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
+    
+        <atom:link href="https://brawnytechie.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Microscopic Summary About My First Pycon</title>
+        <link>https://brawnytechie.com/kiwi-pycon-2019/</link>
+        <pubDate>Tue, 27 Aug 2019 04:48:57 +1300</pubDate>
+        
+        <atom:modified>Tue, 27 Aug 2019 04:48:57 +1300</atom:modified>
+        <guid>https://brawnytechie.com/kiwi-pycon-2019/</guid>
+        <description>I attend my first Python conference last weekend. It was the NZ python user group’s tenth national python conference. Everything was just great and awesome; I made a lot of friends also learn a lot. Going to a conference full of people who love the same thing as myself is always a fun experience.</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        <media:content url="https://brawnytechie.com//images/2019/pycon.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>What’s this Hot Fuzz about Data Science</title>
+        <link>https://brawnytechie.com/hot-fuzz-about-data-science/</link>
+        <pubDate>Sat, 26 Jan 2019 05:46:06 +1200</pubDate>
+        
+        <atom:modified>Sat, 26 Jan 2019 05:46:06 +1200</atom:modified>
+        <guid>https://brawnytechie.com/hot-fuzz-about-data-science/</guid>
+        <description>To answer this question, we have to consider what data science and big data can do for the average citizen: The results of data science are already working their magic in our day to day lives. Have you ever looked for a t-shirt online and found related advertisements on Facebook and other websites continuously for a week?</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>I Screw Up My First Open Barbell</title>
+        <link>https://brawnytechie.com/open-barbell/</link>
+        <pubDate>Sun, 25 Nov 2018 02:09:05 +1200</pubDate>
+        
+        <atom:modified>Sun, 25 Nov 2018 02:09:05 +1200</atom:modified>
+        <guid>https://brawnytechie.com/open-barbell/</guid>
+        <description>Companies are making efforts to calculate barbell path and system performance with the body and barbell, and even measure for the rate of force. Barbell speed trackers allow us to account for this: they provide an instant, measurable metric that can be used to determine how much should actually be lifted.</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        <media:content url="https://brawnytechie.com//images/2019/OB_pcb2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Encoder Basics</title>
+        <link>https://brawnytechie.com/encoder-basics/</link>
+        <pubDate>Wed, 26 Sep 2018 05:28:42 +1200</pubDate>
+        
+        <atom:modified>Wed, 26 Sep 2018 05:28:42 +1200</atom:modified>
+        <guid>https://brawnytechie.com/encoder-basics/</guid>
+        <description>I have come across encoders in my internship projects also personal projects such as Open barbell. Thought its better to draw something in a pencil regarding encoders which will help me to understand more about encoders while you can learn something too.
+The most common encoders are incremental encoders, for two main reasons.</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

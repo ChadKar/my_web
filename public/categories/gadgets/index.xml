@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Gadgets on Brawny Techie</title>
+    <link>https://brawnytechie.com/categories/gadgets/</link>
+    <description>Recent content in Gadgets on Brawny Techie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 25 Nov 2018 02:09:05 +1200</lastBuildDate>
+    
+        <atom:link href="https://brawnytechie.com/categories/gadgets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>I Screw Up My First Open Barbell</title>
+        <link>https://brawnytechie.com/open-barbell/</link>
+        <pubDate>Sun, 25 Nov 2018 02:09:05 +1200</pubDate>
+        
+        <atom:modified>Sun, 25 Nov 2018 02:09:05 +1200</atom:modified>
+        <guid>https://brawnytechie.com/open-barbell/</guid>
+        <description>Companies are making efforts to calculate barbell path and system performance with the body and barbell, and even measure for the rate of force. Barbell speed trackers allow us to account for this: they provide an instant, measurable metric that can be used to determine how much should actually be lifted.</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        <media:content url="https://brawnytechie.com//images/2019/OB_pcb2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Encoder Basics</title>
+        <link>https://brawnytechie.com/encoder-basics/</link>
+        <pubDate>Wed, 26 Sep 2018 05:28:42 +1200</pubDate>
+        
+        <atom:modified>Wed, 26 Sep 2018 05:28:42 +1200</atom:modified>
+        <guid>https://brawnytechie.com/encoder-basics/</guid>
+        <description>I have come across encoders in my internship projects also personal projects such as Open barbell. Thought its better to draw something in a pencil regarding encoders which will help me to understand more about encoders while you can learn something too.
+The most common encoders are incremental encoders, for two main reasons.</description>
+        
+        <dc:creator>Chad Karannagoda</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+              <category>Gadgets</category>
+            
+          
+            
+              <category>Technology</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
