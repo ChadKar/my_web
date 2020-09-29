@@ -5,7 +5,7 @@
   weight = 4
 
 [[main]]
-  parent = "about"
+  # parent = "about"
   identifier = "contact"
   name = "Contact Me"
   url = "contact"
