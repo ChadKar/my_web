@@ -12,7 +12,7 @@ You can call me Chad. I’m a data scientist and software engineer with a strong
 </p>
 
 <p style='text-align: justify;'>
-I have a Master of Software Development and Bachelor of Electronics and Computer System Degree from Victoria University of Wellington.Also an electrotechnology diploma from Wellington Institute of technology. I have been selected as one of the best 25 engineering students in New Zealand by Institution of Professional Engineers New Zealand (IPENZ) to take part in Engineering Leaders Today for Engineering Leaders Tomorrow conference in 2013.</p>
+I have a Master of Software Development and Bachelor of Electronics and Computer System Degree from Victoria University of Wellington.Also an Electrotechnology Diploma from Wellington Institute of technology. I have been selected as one of the best 25 engineering students in New Zealand by Institution of Professional Engineers New Zealand (IPENZ) to take part in Engineering Leaders Today for Engineering Leaders Tomorrow conference in 2013.</p>
 
 <p style='text-align: justify;'>
 I believe the best way to change the world is in concentric circles: start with yourself and work your way out from there. If you get yourself sorted out, then that is one less person for the world to worry about. You’ll be in a position to contribute rather than consume. You will add order rather than disorder.</p>
