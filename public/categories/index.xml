@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 04:48:57 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 17:31:59 +1300</lastBuildDate>
     
         <atom:link href="https://brawnytechie.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,12 @@
 
       
       <item>
-        <title>Data Science</title>
-        <link>https://brawnytechie.com/categories/data-science/</link>
-        <pubDate>Tue, 27 Aug 2019 04:48:57 +1300</pubDate>
+        <title>Technology</title>
+        <link>https://brawnytechie.com/categories/technology/</link>
+        <pubDate>Fri, 02 Oct 2020 17:31:59 +1300</pubDate>
         
         
-        <guid>https://brawnytechie.com/categories/data-science/</guid>
+        <guid>https://brawnytechie.com/categories/technology/</guid>
         <description></description>
         
         <dc:creator>Chad Karannagoda</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>Technology</title>
-        <link>https://brawnytechie.com/categories/technology/</link>
+        <title>Data Science</title>
+        <link>https://brawnytechie.com/categories/data-science/</link>
         <pubDate>Tue, 27 Aug 2019 04:48:57 +1300</pubDate>
         
         
-        <guid>https://brawnytechie.com/categories/technology/</guid>
+        <guid>https://brawnytechie.com/categories/data-science/</guid>
         <description></description>
         
         <dc:creator>Chad Karannagoda</dc:creator>

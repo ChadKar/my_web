@@ -14,7 +14,37 @@
   
   <url>
     <loc>https://brawnytechie.com/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/categories/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/posts/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/tags/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/tags/technology/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/categories/technology/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brawnytechie.com/website-update/</loc>
+    <lastmod>2020-10-02T17:31:59+13:00</lastmod>
   </url>
   
   <url>
@@ -83,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://brawnytechie.com/categories/</loc>
-    <lastmod>2019-08-27T04:48:57+13:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://brawnytechie.com/tags/data-science/</loc>
     <lastmod>2019-08-27T04:48:57+13:00</lastmod>
   </url>
@@ -99,26 +124,6 @@
   
   <url>
     <loc>https://brawnytechie.com/kiwi-pycon-2019/</loc>
-    <lastmod>2019-08-27T04:48:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brawnytechie.com/posts/</loc>
-    <lastmod>2019-08-27T04:48:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brawnytechie.com/tags/</loc>
-    <lastmod>2019-08-27T04:48:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brawnytechie.com/tags/technology/</loc>
-    <lastmod>2019-08-27T04:48:57+13:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://brawnytechie.com/categories/technology/</loc>
     <lastmod>2019-08-27T04:48:57+13:00</lastmod>
   </url>
   
