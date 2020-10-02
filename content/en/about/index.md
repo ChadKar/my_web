@@ -8,7 +8,7 @@ date = "2019-02-28"
 ![about_me](/images/2019/about_me-2.png)
 
  <p style='text-align: justify;'>
-You can call me Chad. I’m a data scientist and software engineer with a strong background in computer science, programming, machine learning, and embedded system engineering. These days, I work remotely as a data scientist with "The Clinician"(Leading provider of data and analytics technology and services to healthcare organizations. The company behind the ZEDOC outcomes measurement platform), but this blog, its content, and opinions are my own. I blog about data science, technology, culture, gadgets, code, the web, where we’re going and where we’ve been. I’m excited about community, social equity, media, entrepreneurship, and above all, the open web.
+You can call me Chad. I’m a data scientist and software engineer with a strong background in computer science, programming, machine learning, and embedded system engineering. These days, I work remotely as a data scientist with "The Clinician"(The company behind the ZEDOC outcomes measurement platform.One of the leading provider of data and analytics technology and services to healthcare organizations), but this blog, its content, and opinions are my own. I blog about data science, technology, culture, gadgets, code, the web, where we’re going and where we’ve been. I’m excited about community, social equity, media, entrepreneurship, and above all, the open web.
 </p>
 
 <p style='text-align: justify;'>
